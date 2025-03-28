@@ -1,4 +1,4 @@
-#  AI Image Generation Platform (MERN Stack)
+#  AI Image Generation Platform (GenGram)
 
 <div align="left">
 <img height="400" width="650" src="https://github.com/saadbinwasi/Image-Generation-AI-Mern/blob/main/photo/Screenshot%202025-03-28%20at%208.13.03%E2%80%AFAM.png"/>
