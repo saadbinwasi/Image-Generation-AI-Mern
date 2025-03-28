@@ -1,8 +1,8 @@
 #  AI Image Generation Platform (MERN Stack)
 
 <div align="center">
-<img height="200" width="900 "src="https://github.com/saadbinwasi/Image-Generation-AI-Mern/blob/main/photo/Screenshot%202025-03-28%20at%208.13.03%E2%80%AFAM.png"/>
-<img height="200" width="900 "src="https://github.com/saadbinwasi/Image-Generation-AI-Mern/blob/main/photo/Screenshot%202025-03-28%20at%207.27.24%E2%80%AFAM.png"/>
+<img height="400" width="900 "src="https://github.com/saadbinwasi/Image-Generation-AI-Mern/blob/main/photo/Screenshot%202025-03-28%20at%208.13.03%E2%80%AFAM.png"/>
+<img height="400" width="900 "src="https://github.com/saadbinwasi/Image-Generation-AI-Mern/blob/main/photo/Screenshot%202025-03-28%20at%207.27.24%E2%80%AFAM.png"/>
 </div>
 
 ## 🌟 Overview
