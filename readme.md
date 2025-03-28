@@ -8,6 +8,10 @@
 <img height="400" width="650" src="https://github.com/saadbinwasi/Image-Generation-AI-Mern/blob/main/photo/Screenshot%202025-03-28%20at%207.27.24%E2%80%AFAM.png"/>
 </div>
 
+<div align="left">
+<img height="400" width="650" src="https://github.com/saadbinwasi/Image-Generation-AI-Mern/blob/main/photo/Screenshot%202025-03-28%20at%207.25.29%E2%80%AFAM.png"/>
+</div>
+
 ## 🌟 Overview
 A full-stack platform where users can generate AI images using Stable Diffusion and share them in a community feed. Built with the MERN stack.
 
